@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Mirwais
 
-<!--
-**mirwaissarwary/mirwaissarwary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical / medical-device engineer focused on **R&D**, systems that sit next to **robotics / automation**, and practical **software**.
 
-Here are some ideas to get you started:
+I build and ship code across **C# / .NET**, **Python**, and web stacks — and I care about reliable systems for devices and tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured work
+- **SecureTodoApi** — ASP.NET Core Web API (auth, CRUD)
+- **TTA-Live_Project-CsharpDotNet** — ASP.NET MVC + EF theater CMS
+- **TTA-Live_Project-Python** — Django web app
+- **mirwaissarwary.github.io** — personal site
+- **Portfolio** — selected projects
+
+### Focus
+Medical devices · R&D · robotics-adjacent systems · software
+
+🔗 [LinkedIn](https://www.linkedin.com/in/mirwaissarwary)
